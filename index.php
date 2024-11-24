@@ -11,7 +11,6 @@
 <div class="container mt-5">
     <h2 class="text-center">Shopping List</h2>
     <div class="card p-4">
-        <div id="shopping-list">
             <ul class="list-group" id="item-list">
                 <!-- Daftar belanja akan muncul di sini -->
             </ul>
