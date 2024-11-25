@@ -1,5 +1,4 @@
 <?php
-include('config/database.php');
 
 // Koneksi ke database
 $host = "localhost";
